@@ -3,7 +3,7 @@
       this is my page
   </head>
   <body>
-    <marquee>heloooooooooooooooooooo</marquee>
+    <p>heloooooooooooooooooooo</p>
   <h1>hello i am yash</h1>
   <h2>i love physics!!!!</h2>
   <p></p>
