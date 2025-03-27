@@ -2,8 +2,8 @@
   <head>
       this is my page
   </head>
-  <body bg-color="red">
+  <body style="background-color:red">
   <h1>hello i am yash</h1>
-  </h2>i love physics</h2>
+  </h2>i love physics!!!!</h2>
   </body>
 </html>
