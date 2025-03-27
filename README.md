@@ -1,8 +1,6 @@
 <html>
   <head>
-    <title>
       this is my page
-    </title>
   </head>
   <body bg-color="red">
   <h1>hello i am yash</h1>
